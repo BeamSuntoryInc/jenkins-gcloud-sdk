@@ -1,7 +1,7 @@
 Jenkins Docker Image w/ GCloud SDK
 ====================================================
 
-This image builds up on the official weekly Jenkins Docker Image [jenkins:2.332.2-jdk11](https://registry.hub.docker.com/_/jenkins/).
+This image builds up on the official weekly Jenkins Docker Image [jenkins/jenkins:2.332.2-lts-jdk11](https://registry.hub.docker.com/_/jenkins/).
 
 Additionally installed:
 
