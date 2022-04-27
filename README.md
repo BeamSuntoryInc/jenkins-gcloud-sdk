@@ -5,8 +5,6 @@ This image builds up on the official weekly Jenkins Docker Image [jenkins:weekly
 
 Additionally installed:
 
-* Oracle JDK 7 (latest at point of image build)
-
 -
 
 * Google Cloud SDK including several components
@@ -16,36 +14,3 @@ Additionally installed:
  * gcloud app Extensions for Go, Python
 
 -
-
-* Jenkins plugins
- * Job Configuration History
- * Parameterized Trigger
- * SSH Agent
- * SSH Credentials
- * SSH Slaves 
- * Maven
- * Git Client
- * Git Parameter
- * GitHub
- * GitHub API
- * GitHub Pull Request Builder
- * Environment Injector
- * Cloudbees Build Flow
- * Join
- * JsHint
- * JUnit
- * Metrics
- * Global Build Stats
- * Build Metrics
- * Disk Usage
- * Embeddable Build Status
- * Static Code Analysis
- * Static Analysis Collector 
- * Checkstyle
- * Duplicate Code Scanner (PMD)
- * DRY
- * FindBugs
- * Performance
- * Tasks Scanner
- * Warnings
- * Emma
