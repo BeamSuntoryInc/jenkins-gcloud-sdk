@@ -1,5 +1,5 @@
 # Get latest Jenkins weekly from offical jenkins docker
-FROM jenkins/jenkins:2.332.2-jdk11
+FROM jenkins/jenkins:2.332.2-lts-jdk11
 
 USER root
 
